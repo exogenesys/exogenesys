@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently hacking Rust/Solana
+- 🌱 I’m currently hacking on Rust/Solana
 - 💬 Ask me about my side projects
 - 🔗 [harshgautam.xyz](https://harshgautam.xyz)
 
