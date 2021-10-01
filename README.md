@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I’m currently hacking Rust/Solana
+💬 Ask me about my side projects
+🔗 [Personal Blog](https://harshgautam.xyz)
+
 <!--
 **exogenesys/exogenesys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
